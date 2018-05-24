@@ -1,0 +1,1 @@
+# mfcauto.py
